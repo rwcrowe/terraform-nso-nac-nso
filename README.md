@@ -15,7 +15,7 @@ Configuring an NSO device-group configuration using YAML:
 
 ```yaml
 nso:
-  url: https://10.122.20.77:2639
+  url: http://1.2.3.4:8080
   configuration:
     device_groups:
       - name: group1
