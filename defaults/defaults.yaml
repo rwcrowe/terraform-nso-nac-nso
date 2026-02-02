@@ -1,0 +1,5 @@
+defaults:
+  nso:
+    devices:
+      managed: true
+      configuration:

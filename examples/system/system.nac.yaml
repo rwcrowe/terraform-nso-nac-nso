@@ -1,0 +1,8 @@
+nso:
+  url: https://10.122.20.77:2639
+  configuration:
+    device_groups:
+      - name: group1
+        device_name:
+          - xrv9k-01
+        ned_id: "cisco-iosxr-cli-7.6.6:cisco-iosxr-cli-7.6.6"
